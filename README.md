@@ -2,7 +2,6 @@
 <h3 align="center">🚀 Front-end developer based in Lisbon</h3>
 
 <br>
-<br>
 
 
 - 👨‍💻 Photo portfolio [lucasrlima.com](lucasrlima.com)
@@ -12,7 +11,6 @@
 - ⚡  **Photojournalist with 20 years experience. 😎**
 
 <br>
-<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -20,7 +18,6 @@
 <a href="https://instagram.com/lucasrlima" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lucasrlima" height="30" width="40" /></a>
 </p>
 
-<br>
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
