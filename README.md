@@ -4,7 +4,7 @@
 <br>
 
 
-- 👨‍💻 Photo portfolio [lucasrlima.com](lucasrlima.com)
+- 👨‍💻 Portfolio [lucasrlima.me](lucasrlima.me)
 
 - 📫 Contact **lucasrlima@gmail.com**
 
