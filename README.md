@@ -1,8 +1,3 @@
-<style>
-  a {
-    color: black;
-  }
-</style>
 <h1 align="center">Hi 👋, I'm Lucas Lima</h1>
 <h3 align="center">🚀 Front-end developer based in Lisbon</h3>
 
