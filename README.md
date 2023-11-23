@@ -6,7 +6,7 @@
 
 - 👨‍💻 Portfolio [lucasrlima.me](lucasrlima.me)
 
-- - 👨‍💻 Photo Portfolio [lucasrlima.com](lucasrlima.com)
+- 👨‍💻 Photo Portfolio [lucasrlima.com](lucasrlima.com)
 
 - 📫 Contact **lucasrlima@gmail.com**
 
