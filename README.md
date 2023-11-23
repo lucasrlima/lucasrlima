@@ -6,6 +6,8 @@
 
 - 👨‍💻 Portfolio [lucasrlima.me](lucasrlima.me)
 
+- - 👨‍💻 Photo Portfolio [lucasrlima.com](lucasrlima.com)
+
 - 📫 Contact **lucasrlima@gmail.com**
 
 - ⚡  **Photojournalist with 20 years experience. 😎**
