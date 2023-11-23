@@ -6,7 +6,7 @@
 
 - 👨‍💻 Portfolio <a href="https://www.lucasrlima.me" target="blank">lucasrlima.me</a>
 
-- 👨‍💻 Photo Portfolio [lucasrlima.com](lucasrlima.com)
+- 👨‍💻 Photo Portfolio <a href="https://www.lucasrlima.com" target="blank">lucasrlima.com</a>
 
 - 📫 Contact **lucasrlima@gmail.com**
 
